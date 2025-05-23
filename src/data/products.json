@@ -1,0 +1,4230 @@
+{
+  "category": "Laptops",
+  "products": [
+    {
+      "id": "c5a03965-9024-4969-bd18-c1d5e3953efe",
+      "name": "Lenovo ThinkPad P14s Gen 5 14″ Core Ultra 7 155H",
+      "price": 2149,
+      "original_price": 214900,
+      "image": "https://pcstore.al/wp-content/uploads/2024/10/ThinkPad-ThinkPad-P14s-Gen-5-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-p14s-gen-5-14%e2%80%b3-core-ultra-7-155h/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad P14s Gen 5 Notebook PC , Intel Core Ultra 7 155H 4.80 Ghz , 14.5″ WQXGA 2560×1600 IPS 350nits AG 100% sRGB, 90Hz, , 32 GB 5600 MHz DDR5 , 1TB M.2 NVMe SSD , Intel Arc Graphics ,No DVD , 3-Cells , Windows 11 Professional , Black , 3YPart # : 21G2000BUK",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14.5,
+          "resolution": "2560x1600",
+          "type": "IPS",
+          "brightness": 350,
+          "refresh_rate": 90,
+          "color_gamut": "100% sRGB",
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Arc Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "21e1a4cd-66be-4edb-a4b3-1cc4738e814c",
+      "name": "Lenovo ThinkBook 16 G6 16″ AMD Ryzen 5 7430U",
+      "price": 869,
+      "original_price": 86900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/06/ThinkBook-16-G6-300x300.png",
+      "url": "https://pcstore.al/product/lenovo-thinkbook-16-g6-16-amd-ryzen-5-7430u/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkBook 16 G6 Notebook PC , AMD Ryzen 5 7430U up to 4.30 GHz , 16″ WUXGA 1920 x 1200p , 16 GB 3200 MHz DDR4 , 512 GB PCIe NVMe SSD , AMD Radeon Graphics , No DVD , Free DOS , 4-Cells , Artic Grey , YPart # : 21KK008PRM",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 5 7430U",
+          "speed": 4.30,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "AMD Radeon Graphics",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Artic Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "a5860abf-27da-4314-a6f2-a4c54d0f6234",
+      "name": "HP Probook 460 G11 Intel® Core™ Ultra 5 125U",
+      "price": 990,
+      "original_price": 99000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/07/HP-Probook-450-G11-Intel®-Core™-Ultra-5-125U-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-probook-460-g11-intel-core-ultra-5-125u/",
+      "availability": "Out of Stock",
+      "description": "HP ProBook 460 G11 Notebook PC , Intel® Core™ Ultra 5 125U Processor up to 4.30 GHz , 16″ WUXGA 1920 x 1200p AG , 8GB 5600MHz DDR5 1x8GB , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , FPR , No DVD , Free Dos , 3-Cells , Pike Silver , 1YPart # : 9Y7S1ET",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ Ultra 5 125U",
+          "speed": 4.30,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "0590c612-c575-4b5a-9c59-5b760aa70f9e",
+      "name": "Lenovo Thinkpad P16s G2 16″ i7-1360P with Sim Card",
+      "price": 2149,
+      "original_price": 214900,
+      "image": "https://pcstore.al/wp-content/uploads/2021/04/Lenovo-Thinkpad-P16s-G1-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-p16s-g2-16%e2%80%b3-i7-1360p-with-sim-card/",
+      "availability": "In Stock",
+      "description": "Lenovo Thinkpad P16s G2 Notebook PC , Intel Core i7-1360P up to 5.00 GHz , 16″ WUXGA IPS 1920 x 1200 , 16 GB 7500 MHz DDR5 ( not upgradable ) , 512 GB PCIe NVMe SSD , nVidia Quadro RTX A500 4GB GDDR6 Dedicated , LTE WWAN , No DVD , 3-Cells , Windows 11 Professional , Villi Black , 3YPart # : 21HK0013UK",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1360P",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200",
+          "type": "IPS",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 7500
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX A500",
+          "brand": "NVIDIA",
+          "memory": 4
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": true
+        },
+        "physical": {
+          "color": "Villi Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "4fe060f5-1462-4f11-8dbb-11e98f7576bf",
+      "name": "Lenovo Legion 5 Pro Ryzen 9 894HX +RTX 5060 8GB",
+      "price": 2149,
+      "original_price": 214900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/07/83FD007QPB-legion-7-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-ryzen-9-894hx-rtx-5060-8gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Legion 5 Pro Gaming Notebook PC, AMD Ryzen 9 894HX up to 5.30 GHz 16C, 16″ WQXGA 2560 x 1600p 500Nits 240Hz, 32GB 5200MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 5060 8GB GDDR7, No DVD, 4-Cell, Free Dos , Eclipse Black, 2YPart # : 83LT001UYA",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 9 894HX",
+          "speed": 5.30,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600p",
+          "type": null,
+          "brightness": 500,
+          "refresh_rate": 240,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 5060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Eclipse Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "9efda3ea-34ac-44af-9361-d17d3a4b2342",
+      "name": "Dell Precision 3591 WS + Core Ultra 9 185H Touch",
+      "price": 3199,
+      "original_price": 319900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/dell-precision-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-precision-3591-ws-core-ultra-9-185h-touch/",
+      "availability": "In Stock",
+      "description": "Dell Precision 3591 Mobile Workstation , Intel Core Ultra 9 185H up to 5.10 GHzz , 15.6″ FHD 1920 x 1080pTouch60Hz, 32GB 5600 MHz LPDDR5 , 512 GB PCIe NVMe SSD, nVidia Quadro RTX 2000 ADA 8GB GDDR6 Dedicated , Windows 11 Professional , Silver , 6-Cells , 3YPart # : 210-BLNG",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 9 185H",
+          "speed": 5.10,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 60,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 32,
+          "type": "LPDDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX 2000 ADA",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "24e3f28c-1990-403c-a520-77b5230b7020",
+      "name": "HP ZBook Power G11 Core Ultra U9-185H + RTX 3000 8GB",
+      "price": 3940,
+      "original_price": 394000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/01/86B14EA-zbook-g11-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-zbook-power-g11-core-ultra-u9-185h-rtx-3000-8gb/",
+      "availability": "Out of Stock",
+      "description": "HP ZBook Power G11 Mobile Workstation , Intel Core Ultra U9-185H up to 5.10GHz , 16″ WQXGA 2560 x1 600 AG 400nts 120Hz, 1×32 GB DDR5-5600 MHz , 1 TB PCIe NVMe SSD , nVidia Quadro RTX 3000 Ada 8GB GDDR6 , No DVD , 6-Cell , Windows 11 Pro , Iron Gray , 3YPart # : 8T0V4EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra U9-185H",
+          "speed": 5.10,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x1 600",
+          "type": null,
+          "brightness": 400,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX 3000 Ada",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Iron Gray",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "884797b6-fecd-466d-a9cb-91d967562488",
+      "name": "Lenovo IdeaPad Pro 5 16″ Intel Ultra 7 255H",
+      "price": 1449,
+      "original_price": 144900,
+      "image": "https://pcstore.al/wp-content/uploads/2018/12/Untitled-7-300x300.png",
+      "url": "https://pcstore.al/product/lenovo-ideapad-pro-5-16-intel-ultra-7-255h/",
+      "availability": "In Stock",
+      "description": "Lenovo IdeaPad Pro 5 16 Notebook PC, Intel Core Ultra 7 255H up to 5.10 GHz, 16″ OLED 2.8K 2880x1800p 120Hz 500nits , 24 GB 8533MHz DDR5, 1TB SSD M.2 PCIe NVMe SSD, Intel ARC Graphics, No DVD, No Ethernet, 4-Cells, Free DOS, Luna Grey , 2YPart #: 83JM002LRM",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 255H",
+          "speed": 5.10,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2880x1800p",
+          "type": "OLED",
+          "brightness": 500,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 24,
+          "type": "DDR5",
+          "speed": 8533
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel ARC Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Luna Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "85fd16c7-af91-4e91-9847-cd513755946c",
+      "name": "Lenovo LOQ i5-12600HX + RTX 3050 6GB",
+      "price": 899,
+      "original_price": 89900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/06/LOQ-15IRH8-300x300.png",
+      "url": "https://pcstore.al/product/lenovo-loq-i5-12600hx-rtx-3050-6gb/",
+      "availability": "In Stock",
+      "description": "Lenovo LOQ Gaming Notebook PC, Intel® Core™ i5-12600HX up to 4.60GHz, 15.6″ FHD 1920 x 1080p 144Hz , 12GB 4800 MHz DDR5, 512 GB SSD PCIe NVMe, nVidia GeForce RTX 3050 6GB GDDR6, No DVD, Free Dos, 4-Cells, Luna Grey, 2YPart # : 83GS00NYRM",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Notebook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ i5-12600HX",
+          "speed": 4.60,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 144,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 12,
+          "type": "DDR5",
+          "speed": 4800
+        },
+        "storage": {
+          "type": "SSD PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 3050",
+          "brand": "NVIDIA",
+          "memory": 6
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Luna Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "7336c807-c5d6-490d-8180-db50323b7ddb",
+      "name": "HP Victus 16.1″ 144Hz i7-14650HX + RTX 4070 8GB",
+      "price": 1990,
+      "original_price": 199000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/03/A58SSEA-hp-victus-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-victus-16-1-144hz-i7-14650hx-rtx-4070-8gb/",
+      "availability": "In Stock",
+      "description": "HP Victus 16-r1174nw Notebook PC , Intel Core i7-14650HX up to 5.20 GHz , 16.1” FHD 1920×1080 IPS AG 144Hz , 16GB 5600MHz DDR5 , 1 TB PCIe NVMe SSD , nVidia GeForce RTX 4070 8GB GDDR6 , No DVD , 4-Cell , White , 1YPart # : A58TGEA",
+      "categories": [
+        "Business Notebook",
+        "Gaming Notebooks",
+        "Laptop",
+        "Notebook",
+        "Ultrabook"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-14650HX",
+          "speed": 5.20,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16.1,
+          "resolution": "1920×1080",
+          "type": "IPS AG",
+          "brightness": null,
+          "refresh_rate": 144,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4070",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "White",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "White",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "cf7515b0-c54d-48b8-9496-84b36bb9ebb7",
+      "name": "HP 250 G10 Notebook PC i3-1315U",
+      "price": 439,
+      "original_price": 43900,
+      "image": "https://pcstore.al/wp-content/uploads/2020/09/HP-255-250-G7-Notebook-PC-5.jpeg",
+      "url": "https://pcstore.al/product/hp-250-g10-notebook-pc-i3-1315u/",
+      "availability": "In Stock",
+      "description": "HP 250 G10 Notebook PC, Intel Core i3-1315U up to 4.50 GHz , 15.6″ FHD 1920 x 1080p , 8GB 3200 MHz DDR4 , 512 GB SSD NVMe M.2 , Intel Iris Xe Graphics , No DVD , Free Dos , 3-Cells , Dark Silver, 1YPart # : 853R0ES",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i3-1315U",
+          "speed": 4.50,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Dark Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "ef71965d-fd5c-41ed-9844-3062349b4fe7",
+      "name": "Lenovo X1 Carbon G11 14″ i7-1355U",
+      "price": 2190,
+      "original_price": 219000,
+      "image": "https://pcstore.al/wp-content/uploads/2020/09/lenovo-laptop-thinkpad-x1-carbon-gen8-subseries-hero-2-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-x1-carbon-g11-14%e2%80%b3-i7-1355u/",
+      "availability": "In Stock",
+      "description": "Lenovo X1 Carbon G11 Notebook PC , Intel Core i7-1355U up to 5.00 GHz , 14″ WUXGA 1920 x 1200P, 16 GB 6400 MHz DDR5 , 512 GB PCIe NVMe SSD , Intel Iris Xe Graphics , No DVD , Windows 11 Professional , 4-Cells , Deep Black, 3YPart # : 21HNS2XL00",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200P",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 6400
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Deep Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "30d750a0-66b1-411c-b751-1b500805d972",
+      "name": "HP Probook 450 G10 Intel® Core™ i5-1335U Processor",
+      "price": 869,
+      "original_price": 86900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/11/Probook-450-G8-300x300.png",
+      "url": "https://pcstore.al/product/hp-probook-450-g10-intel-core-i5-1335u-processor/",
+      "availability": "In Stock",
+      "description": "HP ProBook 450 G10 Notebook PC , Intel® Core™ i5-1335U Processor up to 4.60 GHz , 15.6″ FHD 1920 x 1080p AG , 8GB 3200 MHz DDR4 ,512 GB SSD PCIe NVMe , Intel Iris XE Graphics , No DVD , Free Dos , 3-Cells , Silver , 1YPart # : 85B70EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ i5-1335U",
+          "speed": 4.60,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris XE Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "c31ac6c0-a726-4926-a70b-07bd74b9c43c",
+      "name": "Lenovo Ideapad Gaming 3 Ryzen 5 5500H + RTX 2050 4GB",
+      "price": 749,
+      "original_price": 74900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/82K2007FRM-Ideapad-lenovo-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-ideapad-gaming-3-ryzen-5-5500h-rtx-2050-4gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Ideapad Gaming 3 Notebook PC , AMD Ryzen 5 5500H up to 4.20 GHz , 15.6″ FHD 1920 x 1080p 60Hz , 16 GB 3200MHz DDR4 , 512GB SSD M.2 PCIe NVMe SSD , nVidia GeForce RTX 2050 4GB GDDR6 , No DVD , 3-Cells , Free DOS , Shadow Black , 2YPart # : 82K2027BRM",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Notebook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 5 5500H",
+          "speed": 4.20,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 60,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 2050",
+          "brand": "NVIDIA",
+          "memory": 4
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Shadow Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "78b4fdfd-d081-467a-bb02-339f551a8931",
+      "name": "Lenovo Legion 5 Ryzen™ Al 7 350 +RTX 5070 8GB",
+      "price": 2290,
+      "original_price": 229000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/lenovo-legion-slim-5-16irh8-storm-grey-wqxga-ips-i7-13700h-16gb-1tb-ssd-rtx-4060-8gb-82ya003eya-cene-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-ryzen-al-7-350-rtx-5070-8gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Legion 5 Gaming Notebook PC, AMD Ryzen™ Al 7 350 up to 5.00 GHz 16C, 15.1″ WQXGA 2560 x 1600p Oled 500Nits 165Hz, 32GB 5200MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 5070 8GB GDDR7, No DVD, 4-Cell, Free Dos , Eclipse Black, 4YPart # : 83F1001KYA",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Asus",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen™ Al 7 350",
+          "speed": 5.00,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 15.1,
+          "resolution": "2560 x 1600p",
+          "type": "Oled",
+          "brightness": 500,
+          "refresh_rate": 165,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 5070",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Eclipse Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "2623ffbe-c77b-4874-b6e9-28dff3036b7e",
+      "name": "Lenovo ThinkPad E16 Gen 2 Intel Core Ultra 7-155H",
+      "price": 1390,
+      "original_price": 139000,
+      "image": "https://pcstore.al/wp-content/uploads/2021/02/21JT000DRI-thinkpad-e16-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-e16-gen-2-intel-core-ultra-7-155h-2/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad E16 Gen2 Notebook PC, Intel Core Ultra 7 155H up to 4.80 GHz, 16″ WUXGA 1920 x 1200p IPS 300nits AG, 1x16GB 5600MHz DDR5, 512GB PCIe NVMe SSD, Intel Arc Graphics, Windows 11 Pro,German Keyboard, 3-Cells, Black , 1YPart # : 21MA002YRI",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": "IPS",
+          "brightness": 300,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Arc Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "51e3a104-be9d-4589-8eb2-4be952fab2f1",
+      "name": "Dell Precision WS 7780 i7-13850HX 17.3″ UHD + RTX 3500 Ada 12GB",
+      "price": 5190,
+      "original_price": 519000,
+      "image": "https://pcstore.al/wp-content/uploads/2018/12/DELL-7780-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-precision-ws-7780-i7-13850hx-17-3-uhd-rtx-3500-ada-12gb/",
+      "availability": "In Stock",
+      "description": "Dell Mobile Precision Workstation 7780 Notebook PC, Intel Core i7-13850HX vPro up to 5.30 GHz ( 20 Core / 28 Threads ), 17.3″ UHD 3840 x 2160 120Hz 99% DCI-P3 500 nits, 64 GB 5600 MHz DDR5 (2 x 32Gb ), 2 TB PCIe NVMe SSD, nVidia RTX 3500 ADA 12GB GDDR6, No DVD, 6-Cell, Windows 11 Professional , Silver , 3YPart # : 210-BGPB",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "Dell"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-13850HX vPro",
+          "speed": 5.30,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 17.3,
+          "resolution": "3840 x 2160",
+          "type": null,
+          "brightness": 500,
+          "refresh_rate": 120,
+          "color_gamut": "99% DCI-P3",
+          "touch": false
+        },
+        "memory": {
+          "size": 64,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 2048
+        },
+        "graphics": {
+          "name": "nVidia RTX 3500 ADA",
+          "brand": "NVIDIA",
+          "memory": 12
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "2f96d7d8-d026-47cc-8154-6ab04138ae0c",
+      "name": "HP Elitebook 640 G11 Intel Core Ultra 7 155U",
+      "price": 1550,
+      "original_price": 155000,
+      "image": "https://pcstore.al/wp-content/uploads/2021/02/Untitled-4-300x300.png",
+      "url": "https://pcstore.al/product/hp-elitebook-640-g11-intel-core-ultra-7-155u/",
+      "availability": "In Stock",
+      "description": "HP Elitebook 640 G11 Notebook PC , Intel Core Ultra 7 155U Processor up to 4.80 GHz , 14″ WUXGA 1920 x 1200p AG , 16 GB 5200MHz DDR5 1x16GB , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , FPR , No DVD , Windows 11 Professional , 3-Cells , Pike Silver, 1YPart # : 9Y7E2ET",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "SSD PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "3c4dfd26-0a02-42cb-ad4a-a2a2dfeeee95",
+      "name": "Lenovo V15 G4 Notebook PC + i7-1355U",
+      "price": 749,
+      "original_price": 74900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/06/Lenovo-V15-G3-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-v15-g4-notebook-pc-i7-1355u/",
+      "availability": "In Stock",
+      "description": "Lenovo V15 G4 Notebook PC , Intel Core i7-1355U up to 5.00 GHz , 15.6″ FHD 1920 x 1080p IPS AG , 16GB 3200 Mhz DDR4 , 512GB NVMe M.2 SSD , Intel Iris Xe Graphics , No DVD , Free DOS , 2-Cells , Business Black , 2YPart # : 83A10077RM",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": "IPS AG",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "NVMe M.2 SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Business Black",
+          "battery_cells": 2
+        }
+      }
+    },
+    {
+      "id": "10d67536-27f6-489d-beab-6fb986a69b5c",
+      "name": "Apple MacBook Air 13″ M2 16GB/256GB",
+      "price": 2249,
+      "original_price": 224900,
+      "image": "https://pcstore.al/wp-content/uploads/2021/11/MQKT3ZE-15-macbook-air-300x300.jpg",
+      "url": "https://pcstore.al/product/apple-macbook-air-13-m2-16gb-256gb/",
+      "availability": "In Stock",
+      "description": "Apple MacBook Air 13.6″ Notebook PC , Apple M2 Processor M2 (8-core CPU), 13.6” Retina Display 2560 x 1664, 16GB Unified Memory, 256 GB SSD ,10-core GPU in the M2, macOS Monterey , Silver ,Eng International Keyboard , 70w ,1Y",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Apple"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Apple M2 Processor M2",
+          "speed": null,
+          "brand": "Apple"
+        },
+        "display": {
+          "size": 13.6,
+          "resolution": "2560 x 1664",
+          "type": "Retina Display",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "Unified Memory",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD",
+          "capacity": 256
+        },
+        "graphics": {
+          "name": "10-core GPU in the M2",
+          "brand": "Apple",
+          "memory": null
+        },
+        "os": "macOS Monterey",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "ab18189f-2b94-4f3f-9915-e06be441faa5",
+      "name": "Microsoft Surface Pro 10 + Core Ultra 7 165U 16/512GB",
+      "price": 2290,
+      "original_price": 229000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/Microsoft-Surface-Pro-10-300x300.jpg",
+      "url": "https://pcstore.al/product/microsoft-surface-pro-10-core-ultra-7-165u-16-512gb/",
+      "availability": "In Stock",
+      "description": "Microsoft Surface Pro 10 , Intel Core Ultra 7 165U up to 4.90 GHz, 13″ 2880 x 1920 Touch ,16GB LPDDR5x , 512 GB SSD Pcie NVMe M.2 , Intel Graphics, Windows 11 Professional , Platinum , 1YPart # : ZDW-00022",
+      "categories": ["Laptop", "Notebook", "Ultrabook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 165U",
+          "speed": 4.90,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13,
+          "resolution": "2880 x 1920",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "LPDDR5x",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD Pcie NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Platinum",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "4cb36254-83ed-4758-81bb-c52038b49f3e",
+      "name": "HP Victus 16.1″ 240Hz i7-14650HX + RTX 4060 8GB",
+      "price": 1990,
+      "original_price": 199000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/03/A58SSEA-hp-victus-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-victus-16-1-240hz-i7-14650hx-rtx-4060-8gb/",
+      "availability": "In Stock",
+      "description": "HP Victus 16-r1136nw Notebook PC , Intel Core i7-14650HX up to 5.20 GHz , 16” WQXGA 2560 x 1600p IPS AG 240Hz , 32GB 5600MHz DDR5 , 1 TB PCIe NVMe SSD , nVidia GeForce RTX 4060 8GB GDDR6 , No DVD , 6-Cell , White , , 1YPart # : A58Y0EA",
+      "categories": [
+        "Business Notebook",
+        "Gaming Notebooks",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-14650HX",
+          "speed": 5.20,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600p",
+          "type": "IPS AG",
+          "brightness": null,
+          "refresh_rate": 240,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "White",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "White",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "da76422e-568e-4692-aed1-d9cf6203625d",
+      "name": "Microsoft Surface Pro 10 + Core Ultra 7 165U 16/1TB",
+      "price": 2449,
+      "original_price": 244900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/Microsoft-Surface-Pro-10-300x300.jpg",
+      "url": "https://pcstore.al/product/microsoft-surface-pro-10-core-ultra-7-165u-16-1tb/",
+      "availability": "In Stock",
+      "description": "Microsoft Surface Pro 10 , Intel Core Ultra 7 165U up to 4.90 GHz, 13″ 2880 x 1920 Touch ,16GB LPDDR5x , 1 TB SSD Pcie NVMe M.2 , Intel Graphics, Windows 11 Professional , Platinum , 1YPart # :ZDX-00004",
+      "categories": ["Laptop", "Notebook", "Ultrabook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 165U",
+          "speed": 4.90,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13,
+          "resolution": "2880 x 1920",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "LPDDR5x",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD Pcie NVMe M.2",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Platinum",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "65785302-bbef-4cbb-acc5-c708af0c7dcd",
+      "name": "Apple MacBook Air 15″ M3 16GB/1TB",
+      "price": 2490,
+      "original_price": 249000,
+      "image": "https://pcstore.al/wp-content/uploads/2021/11/MQKT3ZE-15-macbook-air-300x300.jpg",
+      "url": "https://pcstore.al/product/apple-macbook-air-15-m3-16gb-1tb/",
+      "availability": "In Stock",
+      "description": "Apple MacBook Air 15″ Notebook PC , Apple M3 Processor (8-core CPU), 15.3” Retina Display 2880 x 1864, 16GB Unified Memory, 1 TB SSD , 10-core GPU in the M3, macOS Monterey , Space Grey ,Eng International Keyboard ,1YPart # : Z1BQ000JM-CTO",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "Ultrabook",
+        "Apple"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Apple M3 Processor",
+          "speed": null,
+          "brand": "Apple"
+        },
+        "display": {
+          "size": 15.3,
+          "resolution": "2880 x 1864",
+          "type": "Retina Display",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "Unified Memory",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "10-core GPU in the M3",
+          "brand": "Apple",
+          "memory": null
+        },
+        "os": "macOS Monterey",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Space Grey",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "60f08702-76c8-4fb8-bb9b-0634bd9aae3a",
+      "name": "Dell XPS 13 Plus 9320 13.3″ UHD Touch i7-1260P",
+      "price": 3469,
+      "original_price": 346900,
+      "image": "https://pcstore.al/wp-content/uploads/2018/11/Dell-XPS-Plus-13-9320-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-xps-13-plus-9320-13-3-uhd-touch-i7-1260p/",
+      "availability": "In Stock",
+      "description": "Dell XPS Plus 13 9320 Notebook PC ,Intel Core i7-1260P up to 4.70GHz , 13.4” 3.5K 3456 × 2160 Touch ,16GB 5200MHz LPDDR5 , 1TB M.2 PCIe NVMe SSD 4.0 , Intel Iris Xe Graphics , Windows 11 Professional ,Graphite , 3-Cell , 3YPart # : 210-BDVD",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Dell"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1260P",
+          "speed": 4.70,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13.4,
+          "resolution": "3456 × 2160",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "LPDDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "M.2 PCIe NVMe SSD 4.0",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Graphite",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "25a15f90-9e6d-41d5-a02f-d5c86f4ec501",
+      "name": "Lenovo X1 Carbon G11 14″ 2.8K i7-1370P",
+      "price": 3199,
+      "original_price": 319900,
+      "image": "https://pcstore.al/wp-content/uploads/2020/09/lenovo-laptop-thinkpad-x1-carbon-gen8-subseries-hero-2-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-x1-carbon-g11-14-2-8k-i7-1370p/",
+      "availability": "In Stock",
+      "description": "Lenovo X1 Carbon G11 Notebook PC , Intel Core i7-1370P up to 5.20 GHz , 14″ 2.8K 2880 x 1800 OLED IPS 400nits 90Hz, 32 GB 6400 MHz DDR5 , 1 TB PCIe NVMe SSD , Intel Iris Xe Graphics , No DVD , Windows 11 Professional , 4-Cells , Deep Black, 3YPart # : 21HMS1DD00",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1370P",
+          "speed": 5.20,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "2880 x 1800",
+          "type": "OLED IPS",
+          "brightness": 400,
+          "refresh_rate": 90,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 6400
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Deep Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "765af112-53f7-4e7a-a556-14c8a5bd8bda",
+      "name": "HP 250 G10 Notebook PC i7-1355U",
+      "price": 759,
+      "original_price": 75900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/725H0EA-250-g10-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-250-g10-notebook-pc-i7-1355u/",
+      "availability": "In Stock",
+      "description": "HP 250 G10 Notebook PC, Intel Core i7-1355U up to 5.00 GHz , 15.6″ FHD 1920 x 1080p , 8GB 3200 MHz DDR4 , 512 GB SSD NVMe M.2 , Intel Iris Xe Graphics , No DVD , Free Dos , 3-Cells , Dark Silver, 1YPart # : 725H0EA",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Dark Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "4f1ad1ae-2287-4a08-8074-f02234ddba7e",
+      "name": "Apple MacBook Pro 14″ M3 Pro 36GB/1TB",
+      "price": 3890,
+      "original_price": 389000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/Apple-MacBook-Pro-14-M3-300x300.jpg",
+      "url": "https://pcstore.al/product/apple-macbook-pro-14-m3-pro-36gb-1tb/",
+      "availability": "In Stock",
+      "description": "Apple MacBook Pro 14 Notebook PC , Apple M3 Pro Processor M3 Pro (12-core CPU), 14.2” Retina Display 3024 x 1964 , 36GB Unified Memory, 1 TB SSD ,18-core GPU in the M3, macOS Monterey , Space Black ,Eng International Keyboard , 96w , 1YPart # : Z1AV0001N8-CTO",
+      "categories": ["Business Notebook", "Laptop", "Ultrabook", "Apple"],
+      "specs": {
+        "cpu": {
+          "name": "Apple M3 Pro Processor M3 Pro",
+          "speed": null,
+          "brand": "Apple"
+        },
+        "display": {
+          "size": 14.2,
+          "resolution": "3024 x 1964",
+          "type": "Retina Display",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 36,
+          "type": "Unified Memory",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "18-core GPU in the M3",
+          "brand": "Apple",
+          "memory": null
+        },
+        "os": "macOS Monterey",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Space Black",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "f3b1b1e0-c63a-45db-b5c1-f6f5fd1328d6",
+      "name": "HP Elitebook 640 G10 Intel Core i7-1355U",
+      "price": 1449,
+      "original_price": 144900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/HP-ProBook-840-G10-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-elitebook-640-g10-intel-core-i7-1355u/",
+      "availability": "In Stock",
+      "description": "HP EliteBook 640 G10 Notebook PC, Intel Core i7-1355U up to 5.00 GHz, 14″ FHD 1920 x 1080p, 16 GB 3200MHz DDR4, 1TB SSD PCIe NVMe, Intel Iris Xe Graphics, No DVD, Windows 11 Professional, 3-Cells, Silver, 3YPart # : 817Y6EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD PCIe NVMe",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "9abf0e16-0057-47fa-979e-32c303f8acb8",
+      "name": "HP EliteBook 660 G11 Intel Core Ultra 7 155U",
+      "price": 1490,
+      "original_price": 149000,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/Untitled-30-300x300.png",
+      "url": "https://pcstore.al/product/hp-elitebook-660-g11-intel-core-ultra-7-155u/",
+      "availability": "Out of Stock",
+      "description": "HP EliteBook 660 G11 Notebook PC , Intel Core Ultra 7 155U Processor up to 4.80 GHz , 16″ WUXGA 1920 x 1200p AG , 16 GB 5200MHz DDR5 1x16GB , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , FPR , No DVD , Free Dos , 3-Cells , Pike Silver , 3YPart # : 9C004EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "SSD PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "2c12b7cb-db79-4162-b948-5a5fcbbf4347",
+      "name": "HP ZBook Power G11 WQXGA U7-155H + RTX A1000 6GB",
+      "price": 2949,
+      "original_price": 294900,
+      "image": "https://pcstore.al/wp-content/uploads/2024/01/86B14EA-zbook-g11-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-zbook-power-g11-wqxga-u7-155h-rtx-a1000-6gb/",
+      "availability": "Out of Stock",
+      "description": "HP ZBook Power G11 Mobile Workstation , Intel Core Ultra U7-155H up to 4.80GHz , 16″ WQXGA 2560 x 1600AG 400nts 120hz,32 GB DDR5-5600 MHz , 1 TB PCIe NVMe SSD , nVidia Quadro RTX A1000 6GB GDDR6 Dedicated , No DVD , 6-Cell , Windows 11 Pro, Iron Gray , 3YPart # :",
+      "categories": ["Laptop", "Notebook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra U7-155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600",
+          "type": null,
+          "brightness": 400,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX A1000",
+          "brand": "NVIDIA",
+          "memory": 6
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Iron Gray",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "44b6fa72-62a8-4fb2-bcca-c67e359ebd67",
+      "name": "HP Victus 15-fa0002nn i5-12450H + RTX 3050 4GB",
+      "price": 949,
+      "original_price": 94900,
+      "image": "https://pcstore.al/wp-content/uploads/2022/08/6W1Z4EA-victus-1-300x300.png",
+      "url": "https://pcstore.al/product/hp-victus-15-fa0002nn-i5-12450h-rtx-3050-4gb/",
+      "availability": "In Stock",
+      "description": "Victus by HP 15-fa0002nn Notebook PC , Intel Core i5-12450H up to 4.40GHz, 15.6″ FHD 1920 x 1080 144hz IPS , 16GB 3200MHz DDR4 , 512 GB SSD M.2 PCIe NVMe , nVidia GeForce RTX 3050 4GB GDDR6 , No DVD , 4-Cells , Free DOS, Mica Silver , 3YPart #: B3DY9EA",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Notebook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-12450H",
+          "speed": 4.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080",
+          "type": "IPS",
+          "brightness": null,
+          "refresh_rate": 144,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 3050",
+          "brand": "NVIDIA",
+          "memory": 4
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Mica Silver",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "7b01f504-e7a4-4648-972a-8536a4dbadae",
+      "name": "HP Spectre X360 14″ 2K OLED + Intel Core Ultra 7-155H",
+      "price": 1999,
+      "original_price": 199900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/11/A03GMEA-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-spectre-x360-14-eu0002nn-4-2k-oled-intel-core-ultra-7-155h/",
+      "availability": "In Stock",
+      "description": "HP Spectre X360 14-eu0002nn Notebook PC , Intel Core Ultra 7-155H Up to 4.80 GHz, 14″ 2K 2880 x 1800 OLED Touch 400 NITS, 16 GB 7467oMHz DDR5 , 1tbSSD PCIe NVMe , Intel Arc Graphics , No DVD , Windows 11 Home , 3-Cells , Nightfall black , 3YWith PenPart # : A03GMEA",
+      "categories": ["Laptop", "Notebook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7-155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "2880 x 1800",
+          "type": "OLED",
+          "brightness": 400,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 7467
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Arc Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Nightfall black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "e53d2c36-9b94-4d5f-80b1-3cf851545bab",
+      "name": "Lenovo Thinkpad P1 G7 Workstation 16″ Ultra 7 155H 16C",
+      "price": 3549,
+      "original_price": 354900,
+      "image": "https://pcstore.al/wp-content/uploads/2025/03/Lenovo-Thinkpad-P1-G7-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-p1-g7-workstation-16%e2%80%b3-ultra-7-155h-16c/",
+      "availability": "In Stock",
+      "description": "Lenovo Thinkpad P1 G7 Workstation PC , Intel Core Ultra 7 155H 16C up to 5.00 GHz , 16″ WUXGA 2560 x 1600 500nits 165Hz , 32 GB 7500 MHz DDR5, 1TB SSD PCIe NVMe SSD , nVidia Quadro RTX 2000 Ada 8GB GDDR6 , No DVD , 4-Cells , Windows 11 Pro , Black , 3YPart # : 21KVS17U00",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155H",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600",
+          "type": null,
+          "brightness": 500,
+          "refresh_rate": 165,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 7500
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX 2000 Ada",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "897077fd-30f0-4f0d-9aec-1478f63a2f80",
+      "name": "HP Elitebook 630 G11 Intel Core Ultra 7 155U",
+      "price": 1390,
+      "original_price": 139000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/08/Untitled-2-300x300.png",
+      "url": "https://pcstore.al/product/hp-elitebook-630-g11-intel-core-ultra-7-155u/",
+      "availability": "In Stock",
+      "description": "HP Elitebook 630 G11 Notebook PC , Intel Core Ultra 7 155U Processor up to 4.80 GHz , 13.3″ WUXGA 1920 x 1200p AG , 16 GB 5200MHz DDR5 1x16GB , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , FPR , No DVD , Free Dos , 3-Cells , Pike Silver, 1YPart # : 9Y7R8ET",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13.3,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "SSD PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "842eec09-fef1-4eec-a25f-ba1074c36815",
+      "name": "Lenovo ThinkPad T14 G5 Core Ultra 7 155U",
+      "price": 2099,
+      "original_price": 209900,
+      "image": "https://pcstore.al/wp-content/uploads/2021/02/21JT000DRI-thinkpad-e16-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-t14-g5-core-ultra-7-155u/",
+      "availability": "Out of Stock",
+      "description": "Lenovo ThinkPad T14 G5 Notebook PC , Intel Core Ultra 7 155U 12C to 4.80 GHz , 14″ WUXGA 1920 x 1200p 400Nits,1×32 GB 5600 MHz DDR5 , 1 TB M.2 NVMe SSD , Intel UHD Graphics , No DVD , 3-Cells , Windows 11 Pro , Black ,3YPart # : 21ML003MYA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": 400,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "M.2 NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel UHD Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "054c1352-6725-4d25-ab13-c95e64516830",
+      "name": "Lenovo ThinkBook 16 G8 16″ Intel Core Ultra 7-240H",
+      "price": 1049,
+      "original_price": 104900,
+      "image": "https://pcstore.al/wp-content/uploads/2018/12/thinkbook-10750-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkbook-16-g8-16-intel-core-ultra-7-240h/",
+      "availability": "In Stock",
+      "description": "Lenovo Thinkbook 16 Gen8 Notebook PC , Intel Core Ultra 7-240H up to 4.00GHz , 16″ WUXGA 1920 x 1200p IPS AG , 1x8GB 5600 MHz DDR5 , 512 GB SSD PCIe NVMe , Intel ARC Graphics , No DVD , Free DOS , Artic Grey , 3YPart # : 21SH008BRI",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7-240H",
+          "speed": 4.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": "IPS AG",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel ARC Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Artic Grey",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "d1ccf262-45f6-411d-9da7-296be90b1444",
+      "name": "HP 250 G10 Notebook PC i5-1335U",
+      "price": 649,
+      "original_price": 64900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/725G5EA-250-g10-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-250-g10-notebook-pc-i5-1335u/",
+      "availability": "In Stock",
+      "description": "HP 250 G10 Notebook PC, Intel Core i5-1335U up to 4.60 GHz , 15.6″ FHD 1920 x 1080p , 8GB 3200 MHz DDR4 , 512 GB SSD NVMe M.2 , Intel Iris Xe Graphics , No DVD , Free Dos , 3-Cells , Dark Silver, 1YPart # : 725G5EA",
+      "categories": ["Laptop", "Notebook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-1335U",
+          "speed": 4.60,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Dark Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "3ffe0fdc-27a3-4f62-8d05-dba5422ab5c5",
+      "name": "Lenovo IdeaPad Pro 5 16″ Intel Ultra 9 285H",
+      "price": 1599,
+      "original_price": 159900,
+      "image": "https://pcstore.al/wp-content/uploads/2018/12/Untitled-7-300x300.png",
+      "url": "https://pcstore.al/product/lenovo-ideapad-pro-5-16-intel-ultra-9-285h/",
+      "availability": "In Stock",
+      "description": "Lenovo IdeaPad Pro 5 16 Notebook PC, Intel Core Ultra 9 285H up to 5.40 GHz, 16″ OLED 2.8K 2880x1800p 120Hz 500nits, 32 GB 8533MHz DDR5, 1TB SSD M.2 PCIe NVMe SSD, Intel ARC Graphics, No DVD,No Ethernet, 4-Cells, Free DOS, Luna Grey, 2YPart #: 83JM002KRM",
+      "categories": ["Business Notebook", "Laptop", "Notebook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 9 285H",
+          "speed": 5.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2880x1800p",
+          "type": "OLED",
+          "brightness": 500,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 8533
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel ARC Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Luna Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "aa41ad4b-b6c4-402f-a001-bf7955e1dbcf",
+      "name": "Dell Vostro 15 3530 i5-1334U",
+      "price": 639,
+      "original_price": 63900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/Dell-Vostro-15-3510-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-vostro-15-3530-i5-1334u/",
+      "availability": "In Stock",
+      "description": "Dell Vostro 3530 Notebook PC , Intel Core i5-1334U up to 4.60GHz , 15.6″ FHD 1920 x 1080p 120Hz , 16GB 2666 MHz DDR4 , 512 GB PCIe NVMe SSD , Intel X Graphics , No DVD , FreeDos , 3-Cells , Black , 3YPart # :",
+      "categories": ["Laptop", "Notebook", "Dell"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-1334U",
+          "speed": 4.60,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 2666
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel X Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "FreeDos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "f642b983-6216-412e-8600-529aacc2d699",
+      "name": "Dell Precision 3591 Workstation + Intel Core Ultra 9 185H",
+      "price": 2999,
+      "original_price": 299900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/dell-precision-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-precision-3591-workstation-intel-core-ultra-9-185h/",
+      "availability": "In Stock",
+      "description": "Dell Precision 3591 Mobile Workstation , Intel Core Ultra 9 185H up to 5.10 GHzz , 15.6″ FHD 1920 x 1080p 60Hz, 32GB 5600 MHz LPDDR5 , 512 GB PCIe NVMe SSD, nVidia Quadro RTX 2000 ADA 8GB GDDR6 Dedicated , Windows 11 Professional , Silver , 6-Cells , 3YPart # : 210-BLNG",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 9 185H",
+          "speed": 5.10,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 60,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "LPDDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX 2000 ADA",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "d2c7e3ad-881c-4826-8e16-46e097389241",
+      "name": "HP 250 G9 Notebook PC i5-1235U",
+      "price": 699,
+      "original_price": 69900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/02/32M37EA-250-g8-silver-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-250-g9-notebook-pc-i5-1235u/",
+      "availability": "In Stock",
+      "description": "HP 250 G9 Notebook PC, Intel Core i5-1235U up to 4.40 GHz , 15.6″ FHD 1920 x 1080p , 16GB 3200 MHz DDR4 , 512 GB SSD NVMe M.2 , Intel Iris Xe Graphics , No DVD , Windows 11 Professional , 3-Cells , Dark Silver, 1YPart # : 6F2C7EA_16",
+      "categories": ["Laptop", "Ultrabook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-1235U",
+          "speed": 4.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "SSD NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Dark Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "55cce8e8-e230-4008-94d5-aff4c957b2d8",
+      "name": "Dell Vostro 3530 15.6″ i7-1355U",
+      "price": 849,
+      "original_price": 84900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/Dell-Vostro-15-3510-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-vostro-3530-15-6-i7-1355u-2/",
+      "availability": "In Stock",
+      "description": "Dell Vostro 3530 Notebook PC , Intel Core i7-1355U up to 5.00GHz , 15.6″ FHD 1920 x 1080p , 16GB 2666 MHz DDR4 , 512 GB PCIe NVMe SSD , Intel X Graphics , No DVD , FreeDos , 3-Cells , Black , 3YPart # : 210-BGLW",
+      "categories": ["Laptop", "Notebook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 2666
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel X Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "FreeDos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "9e9a940a-6d00-4d53-8863-10ba7383c7a4",
+      "name": "Lenovo Ideapad 1 15.6″ Ryzen 3 7320U",
+      "price": 379,
+      "original_price": 37900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/Lenovo-IdeaPad-1-15amn7-3-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-ideapad-1-15-6-ryzen-3-7320u/",
+      "availability": "In Stock",
+      "description": "Lenovo Ideapad 1 Notebook PC ,AMD Ryzen 3 7320U up to 4.10 GHz ,15.6″ FHD 1920 x 1080p , 8 GB DDR5-5500MHz , 512 GB PCIe NVMe M.2 SSD , No DVD+/-RW , AMD Radeon Graphics , Free Dos, Cloud Grey, 2YPart # : 82VG00S1RM",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 3 7320U",
+          "speed": 4.10,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR5",
+          "speed": 5500
+        },
+        "storage": {
+          "type": "PCIe NVMe M.2 SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "AMD Radeon Graphics",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Cloud Grey",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "210202e9-e2fa-41ee-b8e1-9bb15179110a",
+      "name": "Lenovo Legion 5 Pro Ryzen 9 894HX +RTX 5070 8GB",
+      "price": 2490,
+      "original_price": 249000,
+      "image": "https://pcstore.al/wp-content/uploads/2018/10/83DG009BRM-legion-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-ryzen-9-894hx-rtx-5070-8gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Legion 5 Pro Gaming Notebook PC, AMD Ryzen 9 894HX up to 5.30 GHz 16C, 16″ WQXGA 2560 x 1600p 500Nits 240Hz, 32GB 5200MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 5070 8GB GDDR7, No DVD, 4-Cell, Free Dos , Eclipse Black, 4YPart # : 83LT001SYA",
+      "categories": ["Gaming Notebooks", "Laptop", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 9 894HX",
+          "speed": 5.30,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600p",
+          "type": null,
+          "brightness": 500,
+          "refresh_rate": 240,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 5070",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Eclipse Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "9f9b3c2e-29a4-44fa-9b19-cdaa487e83b1",
+      "name": "Dell Vostro 3530 15.6″ i7-1355U",
+      "price": 1079,
+      "original_price": 107900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/Dell-Vostro-15-3510-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-vostro-3530-15-6-i7-1355u/",
+      "availability": "In Stock",
+      "description": "Dell Vostro 3530 Notebook PC , Intel Core i7-1355U up to 5.00GHz , 15.6″ FHD 1920 x 1080p 120Hz , 16GB 2666 MHz DDR4 , 512 GB PCIe NVMe SSD , Intel UHD Graphics , No DVD , Windows 11 Professional , 4-Cells , Black , 3YPart # : 210-BGLW",
+      "categories": ["Laptop", "Notebook", "Dell"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 2666
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel UHD Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "d14c4eab-1503-46b3-a41f-4cdf3a3fa745",
+      "name": "Microsoft Surface Pro 10 + Core Ultra 5 135U 16/512GB",
+      "price": 2029,
+      "original_price": 202900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/12/Microsoft-Surface-Pro-10-300x300.jpg",
+      "url": "https://pcstore.al/product/microsoft-surface-pro-10-core-ultra-5-135u-16-512gb/",
+      "availability": "In Stock",
+      "description": "Microsoft Surface Pro 10 , Intel Core Ultra 5 135U up to 4.40 GHz, 13″ 2880 x 1920 Touch ,16GB LPDDR5x , 512 GB SSD Pcie NVMe M.2 , Intel Graphics, Windows 11 Professional , Platinum , 1YPart # : ZDU-00022",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Microsoft"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 5 135U",
+          "speed": 4.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13,
+          "resolution": "2880 x 1920",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "LPDDR5x",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD Pcie NVMe M.2",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Platinum",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "24693259-6a73-4a2e-8306-66b33772c009",
+      "name": "HP Elitebook 840 G10 Intel Core i7-1360p 5G",
+      "price": 1999,
+      "original_price": 199900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/HP-ProBook-840-G10-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-elitebook-840-g10-intel-core-i7-1360p-5g/",
+      "availability": "In Stock",
+      "description": "HP EliteBook 840 G10 Notebook PC, Intel Core i7-1360P up to 5.00 GHz, 14″ WUXGA 1920 x 1200p, 16 GB 5200MHz DDR5, 1TB SSD PCIe NVMe, Intel Iris Xe Graphics, No DVD, Broadband Intel 5G Solution 5000, Windows 11 Professional, 3-Cells, Silver, 3YPart # : 6T286EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1360P",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "f8162caa-9e85-4339-9838-6c0a4970561e",
+      "name": "HP Probook 450 G10 Intel® Core™ i7-1355U Processor",
+      "price": 990,
+      "original_price": 99000,
+      "image": "https://pcstore.al/wp-content/uploads/2022/05/Probook-450-G8-300x300.png",
+      "url": "https://pcstore.al/product/hp-probook-450-g10-intel-core-i7-1355u/",
+      "availability": "In Stock",
+      "description": "HP ProBook 450 G10 Notebook PC, Intel® Core™ i7-1355U Processor up to 5.00 GHz , 15.6″ FHD 1920 x 1080p , 16GB 3200 MHz DDR4, 512 GB PCIe NVMe SSD, Intel Iris Xe Graphics, No DVD , Free DOS , 3-Cells, Natural Silver, 1YPart # : 85B73EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ i7-1355U",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Natural Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "27a6bcff-dfb9-4d7e-88c8-6cea19c8272e",
+      "name": "Microsoft Surface Laptop Ryzen 5 3580U",
+      "price": 2279,
+      "original_price": 227900,
+      "image": "https://pcstore.al/wp-content/uploads/2020/09/VGZ-00029-Surface-notebook-5.jpg",
+      "url": "https://pcstore.al/product/microsoft-surface-laptop-ryzen-5-3580u/",
+      "availability": "In Stock",
+      "description": "Microsoft Surface Laptop 3 , AMD Ryzen 5 3580U up to 3.70 GHz , 15″ 2496 x 1664 Touch , 8GB 2666 MHz DDR4 , 256 GB PCIe NVMe SSD SSD , AMD Radeon Vega 9 Series , No DVD, Windows 10 Home , 3-Cell , Black , 1 YearPart # : VGZ-00029",
+      "categories": ["Business Notebook", "Laptop", "Ultrabook"],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 5 3580U",
+          "speed": 3.70,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 15,
+          "resolution": "2496 x 1664",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 2666
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD SSD",
+          "capacity": 256
+        },
+        "graphics": {
+          "name": "AMD Radeon Vega 9 Series",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Windows 10 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "9af05f8c-28a6-4ab3-b659-771d7e4cf188",
+      "name": "HP Victus 15.6″ Ryzen 7 8845HS + RTX 4050 6GB",
+      "price": 1365,
+      "original_price": 136500,
+      "image": "https://pcstore.al/wp-content/uploads/2024/03/A58SSEA-hp-victus-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-victus-15-6-ryzen-7-8845hs-rtx-4050-6gb/",
+      "availability": "In Stock",
+      "description": "HP Victus 15-fb2236nw Notebook PC, AMD Ryzen 7 8845HS up to 5.00 GHz, 15.6″ FHD 1920x1080p 144Hz, 16GB 5600MHz DDR5, 512GB NVMe M.2 SSD, nVidia GeForce RTX 4050 6GB GDDR6, No DVD, FreeDOS, White, 1YPart # : A58SSEA",
+      "categories": [
+        "Business Notebook",
+        "Gaming Notebooks",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 7 8845HS",
+          "speed": 5.00,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920x1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 144,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "NVMe M.2 SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4050",
+          "brand": "NVIDIA",
+          "memory": 6
+        },
+        "os": "FreeDOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "White",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "9e98f0dc-f10d-49c1-8dee-a32003bbad38",
+      "name": "Lenovo Ideapad 5 X360 14″ Ryzen 5 8645HS",
+      "price": 949,
+      "original_price": 94900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/1044-20240713162638-IdeaPad_5_2_in_1_14IRU9_CT1_05-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-ideapad-5-x360-14-ryzen-5-8645hs/",
+      "availability": "In Stock",
+      "description": "Lenovo Ideapad 5 2-in-1 14″ Notebook PC , AMD Ryzen 5 8645HS up to 5.00 GHz , 14″ WUXGA 1920 x 1200p OLED 400nits Glossy 60Hz Touch , 16GB 6400MHz DDR5 Soldered , 512GB SSD M.2 PCIe NVMe SSD , AMD Radeon 760M Graphics , NPU AMD Ryzen AI up to 16 TOPS , 3-Cells , Free DOS , Luna Grey , 2Y1 x Lenovo Digital Pen 2Part # : 83DR006RRM",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 5 8645HS",
+          "speed": 5.00,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": "OLED",
+          "brightness": 400,
+          "refresh_rate": 60,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 6400
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "AMD Radeon 760M Graphics",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Luna Grey",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "6188d007-ec30-478a-8bfc-b72b15e549a6",
+      "name": "Lenovo Legion 5 Pro i7-14700HX+nVidia RTX 4060 8GB",
+      "price": 1949,
+      "original_price": 194900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/07/83DF00B1PB-legion-5-pro-14700h-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-pro-i7-14700hxnvidia-rtx-4060-8gb/",
+      "availability": "In Stock",
+      "description": "Lenovo Legion 5 Pro Gaming Notebook PC, Intel Core i7-14700HX up to 5.50 GHz, 16″ WQXGA 2560 x 1600p 240Hz, 32GB 5600MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 4060 8GB GDDR6, No DVD, 4-Cell, Windows 11 Home , Onyx Grey , 2YPart # : 83DF008ARM",
+      "categories": ["Gaming Notebooks", "Laptop", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-14700HX",
+          "speed": 5.50,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 240,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Windows 11 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Onyx Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "5ea4f8ef-f33b-4452-a5ca-8da622859430",
+      "name": "HP Spectre x360 16-f2014nn 16″ 3K Touch + i7-13700H",
+      "price": 2220,
+      "original_price": 222000,
+      "image": "https://pcstore.al/wp-content/uploads/2023/08/hp-spectre-x360-laptop-500x500-1-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-spectre-x360-16-f2014nn-16-3k-touch-i7-13700h/",
+      "availability": "In Stock",
+      "description": "HP Spectre x360 16-f2014nn Notebook PC, Intel Core i7-13700H up to 5.00 GHz, 16″ 3K 3072 x 1920 OLED Touch , 16GB DDR4, 512 GB PCIe NVMe SSD, Intel Iris Xe Graphics , No DVD, 4-Cell, Windows 11 Home , Nightfall Black , 3YWithout PenPart # : 8D6T5EA",
+      "categories": ["Laptop", "Notebook", "Ultrabook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-13700H",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "3072 x 1920",
+          "type": "OLED",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": null
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Nightfall Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "d39fad39-d5c4-4769-8dea-1498105949cd",
+      "name": "Lenovo Yoga Book 9 2 x 13.3″ 2.8K OLED + Ultra 7 155U",
+      "price": 2449,
+      "original_price": 244900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/Yoga_Book_9_13IMU9_CT2_05-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-yoga-book-9-2-x-13-3-2-8k-oled-ultra-7-155u/",
+      "availability": "In Stock",
+      "description": "Lenovo Yoga Book 9 13 Notebook PC , Intel Core Ultra 7 155U up to 4.80 GHz, 2 x 13.3″ 2.8K OLED WQXGA+ 2880 x 1800 Touch, 32 GB 7467MHz DDR5 , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , No DVD , Windows 11 Home , 4-Cells , Tidal Teal , 1Y1 x Lenovo Digital Pen 3Part # : 83FF0020PB",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13.3,
+          "resolution": "2880 x 1800",
+          "type": "OLED WQXGA+",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": true
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 7467
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Tidal Teal",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "c5b3d167-5f79-4b1b-8c6d-6c9380ec64b4",
+      "name": "Lenovo ThinkPad E16 Gen 2 Intel Core Ultra 7-155H",
+      "price": 1349,
+      "original_price": 134900,
+      "image": "https://pcstore.al/wp-content/uploads/2023/08/21MA002YRI-thinkpad-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-e16-gen-2-intel-core-ultra-7-155h/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad E16 Gen 2 Notebook PC , Intel Core Ultra 7-155H up to 4.80GHz , 16″ WUXGA 1920 x 1200p IPS AG , 16GB 5600 MHz DDR5 , 512 GB SSD PCIe NVMe , Intel ARC Graphics , No DVD , Free DOS , Black , 3YPart # : 21MA002YRI",
+      "categories": ["Gaming Zone", "Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7-155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": "IPS AG",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel ARC Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "29daa7ea-7ee5-4b9a-a3e6-ad16d7098cd6",
+      "name": "Lenovo ThinkPad L14 G5 Intel Core Ultra 7 155U",
+      "price": 1549,
+      "original_price": 154900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/Lenovo-ThinkPad-X13-Gen-2-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-l14-g5-intel-core-ultra-7-155u/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad L14 G5 Notebook PC , Intel Core Ultra 7 155U Processor up to 4.80 GHz , 14″ WUXGA 1920 x 1200p , 16 GB 5600 MHz DDR5 , 512 GB M.2 NVMe SSD , Intel UHD Graphics , No DVD , 3-Cells , Free DOS , Black ,,1YPart # : 21L1003GUK",
+      "categories": ["Laptop", "Notebook", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "M.2 NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel UHD Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "ac77d974-8947-42bd-8b41-cf8b5f8e8bc7",
+      "name": "MSI Sword 16 HX 16″ QHD+ i7-14700HX + RTX 4060 8GB",
+      "price": 1995,
+      "original_price": 199500,
+      "image": "https://pcstore.al/wp-content/uploads/2023/06/MSI-Sword-16-HX.jpg",
+      "url": "https://pcstore.al/product/msi-sword-16-hx-16-qhd-i7-14700hx-rtx-4060-8gb/",
+      "availability": "In Stock",
+      "description": "MSI Sword 16 HX Notebook PC, Intel Core i7-14700HX up to 5.50 GHz, 16″ WQXGA 2560 x 1600p 240Hz, 16GB 5600MHz DDR5 (2x8GB), 1 TB PCIe NVMe SSD, nVidia GeForce RTX 4060 8GB GDDR6, No DVD, 4-Cell, Free Dos , Grey , 1YPart # : B14VFKG-026XPL",
+      "categories": ["Gaming Notebooks", "Laptop", "Notebook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-14700HX",
+          "speed": 5.50,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2560 x 1600p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 240,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "0a3d595a-4809-4363-82a0-80c9bad88610",
+      "name": "HP ZBook Power G11 WUXGA U7-155H + RTX A1000 6GB",
+      "price": 2490,
+      "original_price": 249000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/01/86B14EA-zbook-g11-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-zbook-power-g11-wuxga-u7-155h-rtx-a1000-6gb/",
+      "availability": "In Stock",
+      "description": "HP ZBook Power G11 Mobile Workstation , Intel Core Ultra U7-155H up to 4.80GHz , 16″ WUXGA 1920 x 1200 AG 400nts, 32 GB DDR5-5600 MHz , 1 TBPCIe NVMe SSD , nVidia Quadro RTX A1000 6GB GDDR6 Dedicated , No DVD , 6-Cell , Free Dos , Iron Gray ,3YPart # : 86B14EA",
+      "categories": ["Laptop", "Notebook", "Ultrabook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra U7-155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200",
+          "type": null,
+          "brightness": 400,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX A1000",
+          "brand": "NVIDIA",
+          "memory": 6
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Iron Gray",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "a033e93f-48cb-475b-8daf-746d4cbbed52",
+      "name": "HP Probook 460 G11 Intel® Core™ Ultra 7 155U",
+      "price": 1149,
+      "original_price": 114900,
+      "image": "https://pcstore.al/wp-content/uploads/2024/07/HP-Probook-450-G11-Intel®-Core™-Ultra-5-125U-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-probook-460-g11-intel-core-ultra-7-155u/",
+      "availability": "In Stock",
+      "description": "HP Probook 460 G11 Notebook PC , Intel® Core™ Ultra 7 155U Processor up to 4.80 GHz , 16″ WUXGA 1920 x 1200p AG , 16 GB 5600MHz DDR5 1x16GB , 512 GB SSD PCIe NVMe , Integrated Intel Graphics , FPR , No DVD , Free Dos , 3-Cells , Pike Silver , 1YPart # : A23C9EA",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "Ultrabook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Integrated Intel Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "634f665c-3f36-44a8-a769-1a8ca1750d97",
+      "name": "Dell Latitude 5540 15.6″ i5-1335U",
+      "price": 1590,
+      "original_price": 159000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/dell-precision-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-latitude-5540-15-6-i5-1335u/",
+      "availability": "In Stock",
+      "description": "Dell Latitude 5540 Notebook PC, Intel Core i5-1335U up to 4.6GHz, 15.6″ FHD 1920 x 1080p, 16GB 3200 MHz DDR4, 512 GB PCIe NVMe SSD, Intel Iris Xe Graphics, No DVD, Windows 11 Professional , 3-Cells, Black , 1YPart # :",
+      "categories": ["Laptop", "Notebook", "Dell"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-1335U",
+          "speed": 4.60,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "7ea04237-109f-4830-92a6-51d3a0bf0b5b",
+      "name": "HP Elitebook 840 G11 Intel® Core™ Ultra 7 155U Processor",
+      "price": 1790,
+      "original_price": 179000,
+      "image": "https://pcstore.al/wp-content/uploads/2018/12/840-g11-300x300.png",
+      "url": "https://pcstore.al/product/hp-elitebook-840-g11-intel-core-ultra-7-155u-processor/",
+      "availability": "In Stock",
+      "description": "HP Elitebook 840 G11 Notebook PC , Intel® Core™ Ultra 7 155U Processor up to 4.80 GHz , 14″ WUXGA 1920 x 1200p AG , 16 GB 5200MHz DDR5 1x16GB , 512 GB SSD PCIe NVMe , Intel® graphics , FPR , No DVD , Windows 11 Professional , 3-Cells , Pike Silver , 2YPart # : 970V7ET",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel® graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": true,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Pike Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "7c77ecf1-244b-43c9-9852-b77fba450808",
+      "name": "HP ZBook Power G11 Core Ultra U7-155H + RTX A1000 6GB",
+      "price": 2690,
+      "original_price": 269000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/01/86B14EA-zbook-g11-300x300.jpg",
+      "url": "https://pcstore.al/product/hp-zbook-power-g11-core-ultra-u7-155h-rtx-a1000-6gb/",
+      "availability": "Out of Stock",
+      "description": "HP ZBook Power G11 Mobile Workstation , Intel Core Ultra U7-155H up to 4.80GHz , 16″ WUXGA 1920 x 1200 AG 400nts, 32 GB DDR5-5600 MHz , 1 TBPCIe NVMe SSD , nVidia Quadro RTX A1000 6GB GDDR6 Dedicated , No DVD , 6-Cell , Windows 11 Professional , Iron Gray ,3YPart # : 86B14EA",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra U7-155H",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "1920 x 1200",
+          "type": null,
+          "brightness": 400,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX A1000",
+          "brand": "NVIDIA",
+          "memory": 6
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Iron Gray",
+          "battery_cells": 6
+        }
+      }
+    },
+    {
+      "id": "f3cb5a31-0d0f-4662-bb98-fc125e9c9080",
+      "name": "Apple MacBook Pro 16″ M3 Max 36GB/1TB",
+      "price": 4990,
+      "original_price": 499000,
+      "image": "https://pcstore.al/wp-content/uploads/2024/03/Apple-MacBook-Pro-16-M3-Max-P36GB-300x300.jpg",
+      "url": "https://pcstore.al/product/apple-macbook-pro-16-m3-max-36gb-1tb/",
+      "availability": "In Stock",
+      "description": "Apple MacBook Pro 16 Notebook PC , Apple M3 Max Processor M3 Max (16-core CPU), 16.2” Retina Display 3456 x 2234 , 36GB Unified Memory, 1 TB SSD ,32-core GPU in the M3, macOS Monterey , Space Black ,Eng International Keyboard , 140w , 1YPart # : Z1AV0001N8-CTO",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Apple"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Apple M3 Max Processor M3 Max",
+          "speed": null,
+          "brand": "Apple"
+        },
+        "display": {
+          "size": 16.2,
+          "resolution": "3456 x 2234",
+          "type": "Retina Display",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 36,
+          "type": "Unified Memory",
+          "speed": null
+        },
+        "storage": {
+          "type": "SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "32-core GPU in the M3",
+          "brand": "Apple",
+          "memory": null
+        },
+        "os": "macOS Monterey",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Space Black",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "2345bacb-4b62-490d-b4f0-c7401385817b",
+      "name": "Lenovo ThinkPad X13 G3 13.3″ Ryzen 5 PRO 6650U",
+      "price": 699,
+      "original_price": 69900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/Lenovo-ThinkPad-X13-Gen-2-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-x13-g3-13-3%e2%80%b3-ryzen-5-pro-6650u/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad X13 Gen 3 Notebook, AMD Ryzen 5 PRO 6650U up to 4.50 GHz, 13.3″ WUXGA 1920 x 1200p, 8GB DDR5 6400 MHz, 256 GB SSD Pcie NVMe M.2, AMD Radeon 660M Graphics, Windows 11 Professional , Thunder Black, 1YPart # : 21CNS2ST06",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 5 PRO 6650U",
+          "speed": 4.50,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 13.3,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR5",
+          "speed": 6400
+        },
+        "storage": {
+          "type": "SSD Pcie NVMe M.2",
+          "capacity": 256
+        },
+        "graphics": {
+          "name": "AMD Radeon 660M Graphics",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Thunder Black",
+          "battery_cells": null
+        }
+      }
+    },
+    {
+      "id": "8e07e7bd-3a78-44ba-9cdf-8c5423495286",
+      "name": "Lenovo Legion 5 i7-13650HX+nVidia RTX 5060 8GB",
+      "price": 1699,
+      "original_price": 169900,
+      "image": "https://pcstore.al/wp-content/uploads/2018/10/83DG009BRM-legion-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-i7-13650hxnvidia-rtx-5060-8gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Legion 5 Gaming Notebook PC, Intel Core i7-13650HX up to 4.90 GHz, 15.3″ WUXGA 1920 x 1200p 300Nits 165Hz, 24GB 4800MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 5060 8GB GDDR7, No DVD, 4-Cell, Free Dos , Eclips Black ,2YPart # :83LY006VYA",
+      "categories": ["Gaming Notebooks", "Gaming Zone", "Laptop", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-13650HX",
+          "speed": 4.90,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.3,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": 300,
+          "refresh_rate": 165,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 24,
+          "type": "DDR5",
+          "speed": 4800
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 5060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Eclips Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "87368633-046d-4b27-9626-ef72ea70402b",
+      "name": "Lenovo Yoga Slim 6 Notebook , Core i5-13500H",
+      "price": 1190,
+      "original_price": 119000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/06/Yoga-Slim-7-Pro-1-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-yoga-slim-6-notebook-core-i5-13500h/",
+      "availability": "In Stock",
+      "description": "Lenovo Yoga Slim 6 Notebook PC , Intel Core i5-13500H up to 4.70 GHz, 14″ WUXGA 1920 x 1200p Oled , 16 GB 5200 MHz DDR5 , 512 GB PCIe NVMe SSD , Iris Xe Graphics, No DVD , Windows 11 Home, 4-Cells , Storm Grey ,1YPart #: 83E0003BPB",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Legion by Lenovo",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i5-13500H",
+          "speed": 4.70,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": "Oled",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Iris Xe Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Storm Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "169bbd98-ba74-4267-993c-e7534f3f6ea3",
+      "name": "HP 245 G8 Notebook PC 14″ Ryzen 3 5300U",
+      "price": 699,
+      "original_price": 69900,
+      "image": "https://pcstore.al/wp-content/uploads/2020/10/HP-245-G8-HP--300x300.jpg",
+      "url": "https://pcstore.al/product/hp-245-g8-notebook-pc-14-ryzen-3-5300u/",
+      "availability": "In Stock",
+      "description": "HP 245 G8 Notebook PC , AMD Ryzen 3 5300U up to 3.80 GHz , 14″ FHD 1920 x 1080p, 8GB 3200 MHz DDR4 , 256 GB PCIe NVMe SSD , AMD Radeon Graphics , no DVD+/-RW , Windows 10 Home, 3-Cells , Silver , 1YPart # : 3V5G2EA",
+      "categories": ["Business Notebook", "Laptop", "Notebook", "HP"],
+      "specs": {
+        "cpu": {
+          "name": "AMD Ryzen 3 5300U",
+          "speed": 3.80,
+          "brand": "AMD"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 8,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 256
+        },
+        "graphics": {
+          "name": "AMD Radeon Graphics",
+          "brand": "AMD",
+          "memory": null
+        },
+        "os": "Windows 10 Home",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "6b4fd176-446e-4383-a73c-9314291899b9",
+      "name": "Lenovo Legion 5 Core Ultra 9 275HX +RTX 5070 8GB",
+      "price": 2490,
+      "original_price": 249000,
+      "image": "https://pcstore.al/wp-content/uploads/2018/10/83DG009BRM-legion-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-legion-5-core-ultra-9-275hx-rtx-5070-8gb/",
+      "availability": "Out of Stock",
+      "description": "Lenovo Legion 5 Gaming Notebook PC, Intel Core Ultra 9 275HX up to 5.40 GHz 24C, 15.1″ WQXGA 2560 x 1600p Oled 500Nits 165Hz, 32GB 5600MHz DDR5, 1 TB PCIe NVMe SSD, nVidia GeForce RTX 5070 8GB GDDR7, No DVD, 4-Cell, Free Dos , Eclipse Black, 4YPart # : 83F00036YA",
+      "categories": ["Gaming Notebooks", "Laptop", "Lenovo"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 9 275HX",
+          "speed": 5.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.1,
+          "resolution": "2560 x 1600p",
+          "type": "Oled",
+          "brightness": 500,
+          "refresh_rate": 165,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 5070",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Eclipse Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "18ebeb57-5d1c-4b8f-a634-1ae2fce255ee",
+      "name": "Lenovo ThinkPad X13 Gen 3 13.3″ i7-1270P",
+      "price": 1199,
+      "original_price": 119900,
+      "image": "https://pcstore.al/wp-content/uploads/2017/12/Lenovo-ThinkPad-X13-Gen-2-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-x13-gen-3-13-3%e2%80%b3-i7-1270p/",
+      "availability": "In Stock",
+      "description": "Lenovo Thinkpad X13 G3 Notebook PC , Intel Core i7-1270P up to 4.80 GHz , 13″ WUXGA IPS 1920 x 1200 , 32 GB 3200 MHz DDR4 , 256 PCIe NVMe SSD , Intel UHD Graphics ,No DVD , 3-Cells , Windows 10/11 Professional , Black , 1YPart # : 21BQS4280Q",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1270P",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 13,
+          "resolution": "1920 x 1200",
+          "type": "IPS",
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR4",
+          "speed": 3200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 256
+        },
+        "graphics": {
+          "name": "Intel UHD Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 10/11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "3586d984-90c9-407d-81a3-b70b26096733",
+      "name": "Lenovo IdeaPad Pro 5 14″ Intel Ultra 7 255H",
+      "price": 1449,
+      "original_price": 144900,
+      "image": "https://pcstore.al/wp-content/uploads/2019/05/Untitled-5-300x300.png",
+      "url": "https://pcstore.al/product/lenovo-ideapad-pro-5-14%e2%80%b3-intel-ultra-7-255h/",
+      "availability": "In Stock",
+      "description": "Lenovo IdeaPad Pro 5 14 Notebook PC, Intel Core Ultra 7 255H up to 5.10 GHz, 14″ OLED 2.8K 2880x1800p 120Hz 500nits, 24 GB 8533MHz DDR5, 1TB SSD M.2 PCIe NVMe SSD, Intel ARC Graphics, No DVD,No Ethernet, 4-Cells, Free DOS, Luna Grey, 2YPart # : 83JK000WRM,",
+      "categories": ["Business Notebook", "Laptop", "Notebook"],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 255H",
+          "speed": 5.10,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "2880x1800p",
+          "type": "OLED",
+          "brightness": 500,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 24,
+          "type": "DDR5",
+          "speed": 8533
+        },
+        "storage": {
+          "type": "SSD M.2 PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel ARC Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Free DOS",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Luna Grey",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "fe54709f-4587-4a73-b65a-17b43713efb9",
+      "name": "Lenovo ThinkPad P14s Gen 4 i7-1360P",
+      "price": 1569,
+      "original_price": 156900,
+      "image": "https://pcstore.al/wp-content/uploads/2024/10/ThinkPad-ThinkPad-P14s-Gen-5-300x300.jpg",
+      "url": "https://pcstore.al/product/lenovo-thinkpad-p14s-gen-4-i7-1360p/",
+      "availability": "In Stock",
+      "description": "Lenovo ThinkPad P14s Gen 4 Notebook PC , Intel Core i7-1360P up to 5.00 GHz , 14″ WUXGA 1920 x 1200p,16 GB 5600 MHz DDR5 , 512 GB M.2 NVMe SSD , Intel uhd Graphics ,No DVD , 3-Cells , Windows 11 Professional , Black , 1YPart # : 21HF002FUK",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Lenovo"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-1360P",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 14,
+          "resolution": "1920 x 1200p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "M.2 NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel uhd Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "af3df01e-1b43-41ba-b03b-8e669b7ca8a9",
+      "name": "HP Elitebook 860 G11 Intel® Core™ Ultra 7 155U Processor",
+      "price": 2190,
+      "original_price": 219000,
+      "image": "https://pcstore.al/wp-content/uploads/2023/11/860-g11-300x300.png",
+      "url": "https://pcstore.al/product/hp-elitebook-860-g11-intel-core-ultra-7-155u-processor/",
+      "availability": "Out of Stock",
+      "description": "HP Elitebook 860 G11 Notebook PC, Intel® Core™ Ultra 7 155U Processor up to 4.80 GHz, 16″ 2.8K OLED 2880 x 1800p 400Nits 120Hz, 32GB Memory 5200 MHz DDR5, 1 TB PCIe NVMe SSD, Intel® Iris® Graphics, No DVD , Windows 11 Professional, 3-Cells, Asteroid Silver , 3YPart # : 8N367AV",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "HP"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel® Core™ Ultra 7 155U",
+          "speed": 4.80,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 16,
+          "resolution": "2880 x 1800p",
+          "type": "OLED",
+          "brightness": 400,
+          "refresh_rate": 120,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "DDR5",
+          "speed": 5200
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "Intel® Iris® Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Professional",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Asteroid Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "351043af-2a2e-4e29-8e8f-174d79c73af0",
+      "name": "MSI Katana 17 B13 17.3″ i7-13620H RTX 4060 8GB",
+      "price": 1490,
+      "original_price": 149000,
+      "image": "https://pcstore.al/wp-content/uploads/2023/06/MSI-Sword-16-HX.jpg",
+      "url": "https://pcstore.al/product/msi-katana-17-b13-17-3-i7-13620h-rtx-4060-8gb/",
+      "availability": "Out of Stock",
+      "description": "MSI Katana 17 B13 Notebook PC, Intel Core i7-13620H up to 4.90GHz, 17.3″ FHD 1920 x 1080 144Hz, 16GB 4800MHz DDR5 (2x8GB), 1 TB PCIe NVMe SSD, nVidia GeForce RTX 4060 8GB GDDR6, No DVD, 4-Cell, Free Dos , Black ,1YPart # :B13VFK-841XPLL",
+      "categories": [
+        "Gaming Notebooks",
+        "Gaming Zone",
+        "Laptop",
+        "Notebook",
+        "SPECIAL OFFER"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core i7-13620H",
+          "speed": 4.90,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 17.3,
+          "resolution": "1920 x 1080",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 144,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 4800
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia GeForce RTX 4060",
+          "brand": "NVIDIA",
+          "memory": 8
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Black",
+          "battery_cells": 4
+        }
+      }
+    },
+    {
+      "id": "6bce8ba2-2406-49b6-8966-b25fa8d687de",
+      "name": "Dell Precision 3590 Mobile Workstation + Intel Core Ultra 7 165H",
+      "price": 2390,
+      "original_price": 239000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/04/dell-precision-300x300.jpg",
+      "url": "https://pcstore.al/product/dell-precision-3590-mobile-workstation-intel-core-ultra-7-165h/",
+      "availability": "In Stock",
+      "description": "Dell Precision 3590 Mobile Workstation , Intel Core Ultra 7 165H up to 5.00 GHz , 15.6″ FHD 1920 x 1080p 60Hz, 32GB 5600 MHz LPDDR5 , 1TB PCIe NVMe SSD, nVidia Quadro RTX 500 ADA 4GB GDDR6 Dedicated , Free Dos , Silver , 3-Cells , 3YPart # : 210-BLMZ",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Mobile Worksation",
+        "Notebook",
+        "Dell"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 165H",
+          "speed": 5.00,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": null,
+          "brightness": null,
+          "refresh_rate": 60,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 32,
+          "type": "LPDDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 1024
+        },
+        "graphics": {
+          "name": "nVidia Quadro RTX 500 ADA",
+          "brand": "NVIDIA",
+          "memory": 4
+        },
+        "os": "Free Dos",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    },
+    {
+      "id": "c10693dc-4848-4bef-88fb-410b0a0c0a82",
+      "name": "Samsung Galaxy Book4 + Intel Core Ultra 7 150U (DE)",
+      "price": 1290,
+      "original_price": 129000,
+      "image": "https://pcstore.al/wp-content/uploads/2019/05/NP754XGK-KS1DE-samsung-300x300.jpg",
+      "url": "https://pcstore.al/product/samsung-galaxy-book4-intel-core-ultra-7-150u-de/",
+      "availability": "Out of Stock",
+      "description": "Samsung Galaxy Book4 Notebook , Intel Core Ultra 7 150U up to 5.40 GHz, 15.6″ FHD 1920 x 1080p IPS 300nits GS, 1x16GB 5600MHz DDR5, 512GB PCIe NVMe SSD, Intel Arc Graphics, Windows 11 Pro,German Keyboard, 3-Cells, Silver , 1YPart # : NP754XGK-KS1DE",
+      "categories": [
+        "Business Notebook",
+        "Laptop",
+        "Notebook",
+        "Ultrabook",
+        "Asus"
+      ],
+      "specs": {
+        "cpu": {
+          "name": "Intel Core Ultra 7 150U",
+          "speed": 5.40,
+          "brand": "Intel"
+        },
+        "display": {
+          "size": 15.6,
+          "resolution": "1920 x 1080p",
+          "type": "IPS",
+          "brightness": 300,
+          "refresh_rate": null,
+          "color_gamut": null,
+          "touch": false
+        },
+        "memory": {
+          "size": 16,
+          "type": "DDR5",
+          "speed": 5600
+        },
+        "storage": {
+          "type": "PCIe NVMe SSD",
+          "capacity": 512
+        },
+        "graphics": {
+          "name": "Intel Arc Graphics",
+          "brand": "Intel",
+          "memory": null
+        },
+        "os": "Windows 11 Pro",
+        "features": {
+          "fingerprint_reader": false,
+          "backlit_keyboard": false,
+          "webcam": true,
+          "lte": false
+        },
+        "physical": {
+          "color": "Silver",
+          "battery_cells": 3
+        }
+      }
+    }
+  ]
+}
